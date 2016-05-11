@@ -34,3 +34,11 @@ Examples (all with Borg serving):
 4. Borg earns 3 points while McEnroe earns 4 with partial score "Advantage McEnroe"
 5. Borg earns 4 points while McEnroe strikes out with final score "Winner Borg"
 6. The game is tied at 10 points each with partial score "Deuce"
+
+Getting started:
+1. $ composer install
+2. $ composer dumpautoload
+3. write a failing test for the code you wish you had
+4. write the code to make it green
+5. take the opportunity to refactor
+6. goto step 3
